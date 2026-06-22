@@ -1,0 +1,966 @@
+NORMALIZED SOURCE COPY
+
+This is the normalized source intake file included for traceability.
+It has been converted from Markdown to text-friendly form with long dashes replaced by ASCII hyphens.
+
+# Brand + Website Onboarding Questions
+
+## Purpose
+
+Use this Markdown file to collect brand answers before creating any brand-specific output.
+
+This file is a **generic factory intake asset**. It does not contain a completed brand profile, website plan, campaign, carousel, caption, CTA, or finished brand folder.
+
+## Operating Rules
+
+- Ask **one question at a time** unless the user explicitly requests bulk intake.
+- Collect the 9 core brand fields before any story discovery, slide planning, caption writing, CTA selection, visual generation, sitemap planning, or website copywriting.
+- Use the website-specific questions only when the user wants to make, rebuild, audit, or brief a website for a brand.
+- If an answer is vague, ask one short follow-up before moving on.
+- Restate each cleaned answer in the requested format before asking the next question.
+- Do not personalize this file for one brand. Put brand-specific answers in the separate brand folder or website project folder.
+
+---
+
+# Part 1 - Core Brand Intake Questions
+
+These 9 questions are required for every brand run.
+
+## 1. Brand Name
+
+**Question**  
+What exact brand name should appear in on-image text, captions, CTA language, and website copy?
+
+**Why this matters**  
+This is the public-facing name the system must preserve exactly.
+
+**Examples**
+- A company name
+- A personal brand name
+- A product name
+- A project name
+
+**Rough-answer fallback**  
+Use the working project name for now.
+
+**Cleaned answer format**  
+`Brand name: <exact public-facing name>`
+
+---
+
+## 2. Audience
+
+**Question**  
+Who is the primary audience this brand wants to reach first?
+
+**Why this matters**  
+This identifies who the content and website should speak to before anyone else.
+
+**Examples**
+- Founders adopting AI tools
+- Educators tracking AI in classrooms
+- Executives buying AI training
+- Creators improving workflow with AI
+
+**Rough-answer fallback**  
+Professionals interested in practical AI.
+
+**Cleaned answer format**  
+`Audience: <primary audience sentence>`
+
+---
+
+## 3. Offer
+
+**Question**  
+What does the brand sell, deliver, teach, or want people to do?
+
+**Why this matters**  
+This defines the brand's practical value and the likely conversion path.
+
+**Examples**
+- AI workshops
+- Consulting calls
+- Software demos
+- Newsletter subscriptions
+
+**Rough-answer fallback**  
+Practical AI guidance and resources for the target audience.
+
+**Cleaned answer format**  
+`Offer: <clear offer sentence>`
+
+---
+
+## 4. Tone
+
+**Question**  
+What tone should the brand use?
+
+**Why this matters**  
+This controls how the brand sounds across content, website copy, captions, and CTAs.
+
+**Examples**
+- Clear and practical
+- Rigorous and evidence-first
+- Warm and accessible
+- Bold and founder-friendly
+
+**Rough-answer fallback**  
+Clear, practical, and trustworthy.
+
+**Cleaned answer format**  
+`Tone: <3 to 5 tone descriptors>`
+
+---
+
+## 5. Visual Style
+
+**Question**  
+What should the visuals feel like?
+
+**Why this matters**  
+This controls the look of slides, graphics, website sections, image prompts, and page layouts.
+
+**Examples**
+- Clean editorial
+- Minimal technical
+- Bold startup style
+- Premium executive style
+
+**Rough-answer fallback**  
+Clean editorial visuals with strong contrast and simple layouts.
+
+**Cleaned answer format**  
+`Visual style: <visual style sentence>`
+
+---
+
+## 6. Goals
+
+**Question**  
+What should the brand content or website achieve first?
+
+**Why this matters**  
+This identifies the main business or communication outcome.
+
+**Examples**
+- Build authority
+- Generate leads
+- Drive website visits
+- Grow newsletter signups
+
+**Rough-answer fallback**  
+Build authority and generate qualified interest.
+
+**Cleaned answer format**  
+`Goals: <ranked or primary goal statement>`
+
+---
+
+## 7. Content Themes
+
+**Question**  
+What recurring AI-related themes should the system cover?
+
+**Why this matters**  
+These are the story buckets the system should return to over time.
+
+**Examples**
+- AI tools for operations
+- AI policy and risk
+- AI in education
+- Sector adoption of AI
+
+**Rough-answer fallback**  
+AI tools, AI policy, AI in education, and the brand's sector plus AI.
+
+**Cleaned answer format**  
+`Content themes: <theme list>`
+
+---
+
+## 8. Platforms
+
+**Question**  
+Where will this content be published first?
+
+**Why this matters**  
+The platform affects caption length, format, CTA style, slide density, and website traffic goals.
+
+**Examples**
+- LinkedIn
+- X
+- Instagram
+- Newsletter
+- Website blog
+
+**Rough-answer fallback**  
+LinkedIn as the primary platform.
+
+**Cleaned answer format**  
+`Platforms: <primary platform plus optional secondary platforms>`
+
+---
+
+## 9. Constraints
+
+**Question**  
+What must the system avoid or enforce?
+
+**Why this matters**  
+These are trust, safety, compliance, tone, or brand-protection rules.
+
+**Examples**
+- No hype
+- No legal advice
+- No exaggerated ROI claims
+- No competitor attacks
+
+**Rough-answer fallback**  
+No hype, no unsupported claims, no confusing jargon, and conservative claims only.
+
+**Cleaned answer format**  
+`Constraints: <constraint list>`
+
+---
+
+# Part 2 - Website-Specific Intake Questions
+
+Use these only when the user wants to create, redesign, brief, audit, or launch a website for the brand.
+
+## Minimum Website Intake
+
+These questions are usually needed before making a useful website strategy, sitemap, wireframe, homepage draft, landing page, or developer brief.
+
+## 10. Website Purpose
+
+**Question**  
+What is the main job of the website?
+
+**Why this matters**  
+A website built to generate leads should be structured differently from a website built for credibility, recruiting, ecommerce, investor trust, or content publishing.
+
+**Examples**
+- Generate qualified leads
+- Explain the offer clearly
+- Sell products
+- Book calls
+- Build credibility
+- Publish thought leadership
+
+**Rough-answer fallback**  
+Make the brand credible and convert qualified visitors into leads.
+
+**Cleaned answer format**  
+`Website purpose: <primary website job>`
+
+---
+
+## 11. Primary Website CTA
+
+**Question**  
+What is the one main action visitors should take on the website?
+
+**Why this matters**  
+The main CTA controls page hierarchy, navigation, buttons, forms, and homepage structure.
+
+**Examples**
+- Book a call
+- Request a demo
+- Buy now
+- Join the newsletter
+- Download a guide
+- Apply now
+
+**Rough-answer fallback**  
+Book a call or request more information.
+
+**Cleaned answer format**  
+`Primary website CTA: <single main action>`
+
+---
+
+## 12. Secondary Website CTAs
+
+**Question**  
+What secondary actions should visitors be able to take?
+
+**Why this matters**  
+Secondary CTAs help visitors who are interested but not ready for the main conversion.
+
+**Examples**
+- Read case studies
+- View pricing
+- Watch a demo
+- Subscribe to updates
+- Download a resource
+- Contact support
+
+**Rough-answer fallback**  
+Read more proof, join the newsletter, or contact the brand.
+
+**Cleaned answer format**  
+`Secondary website CTAs: <secondary action list>`
+
+---
+
+## 13. Required Pages
+
+**Question**  
+Which pages must exist at launch?
+
+**Why this matters**  
+This defines the first sitemap and prevents unnecessary page sprawl.
+
+**Examples**
+- Home
+- About
+- Services
+- Pricing
+- Case studies
+- Blog
+- Contact
+- FAQ
+
+**Rough-answer fallback**  
+Home, About, Offer or Services, Proof, and Contact.
+
+**Cleaned answer format**  
+`Required pages: <launch page list>`
+
+---
+
+## 14. Offer or Service Structure
+
+**Question**  
+How should the website present the brand's offers, services, products, or packages?
+
+**Why this matters**  
+The website needs a clear way to explain what is available, who it is for, and what action to take next.
+
+**Examples**
+- One main service page
+- Separate pages for each service
+- Product collection pages
+- Tiered packages
+- Custom quote flow
+
+**Rough-answer fallback**  
+Use one clear offer page with sections for outcomes, process, proof, and CTA.
+
+**Cleaned answer format**  
+`Offer structure: <how offers should be presented>`
+
+---
+
+## 15. Visitor Segments
+
+**Question**  
+Do different visitor types need different paths through the website?
+
+**Why this matters**  
+A site for multiple audiences may need segmented navigation, landing pages, or homepage sections.
+
+**Examples**
+- Buyers and partners
+- Founders and enterprise teams
+- Students and administrators
+- Customers and investors
+- New users and existing users
+
+**Rough-answer fallback**  
+Use one primary path for the main buyer and one secondary path for everyone else.
+
+**Cleaned answer format**  
+`Visitor segments: <segment list and priority order>`
+
+---
+
+## 16. Visitor Objections
+
+**Question**  
+What questions, doubts, or objections must the website answer?
+
+**Why this matters**  
+Good website copy removes friction before the visitor reaches the CTA.
+
+**Examples**
+- Is this credible?
+- Is it worth the cost?
+- How does the process work?
+- What results are realistic?
+- Is this secure or compliant?
+
+**Rough-answer fallback**  
+Explain credibility, process, expected outcomes, pricing path, and next steps.
+
+**Cleaned answer format**  
+`Visitor objections: <objection list>`
+
+---
+
+## 17. Proof Assets
+
+**Question**  
+What proof can the website use?
+
+**Why this matters**  
+Proof supports trust without relying on unsupported claims.
+
+**Examples**
+- Testimonials
+- Case studies
+- Client logos
+- Before-and-after examples
+- Certifications
+- Press mentions
+- Measured outcomes
+
+**Rough-answer fallback**  
+Use process clarity, founder credibility, examples, and conservative claims until stronger proof exists.
+
+**Cleaned answer format**  
+`Proof assets: <available proof list>`
+
+---
+
+## 18. Brand Assets
+
+**Question**  
+What brand assets already exist for the website?
+
+**Why this matters**  
+Existing assets affect design speed, visual consistency, and production scope.
+
+**Examples**
+- Logo files
+- Color palette
+- Fonts
+- Brand guidelines
+- Photography
+- Icons
+- Illustration style
+
+**Rough-answer fallback**  
+No formal assets yet; use a clean starter visual system.
+
+**Cleaned answer format**  
+`Brand assets: <available assets or none stated>`
+
+---
+
+## 19. Existing Website or Domain
+
+**Question**  
+Does the brand already have a website, domain, or landing page?
+
+**Why this matters**  
+This determines whether the project is a new build, redesign, migration, audit, or optimization.
+
+**Examples**
+- No website yet
+- Domain purchased but no site
+- Existing website needs redesign
+- Landing page exists
+- Website exists but needs copy updates
+
+**Rough-answer fallback**  
+Treat it as a new website build.
+
+**Cleaned answer format**  
+`Existing website/domain: <status plus placeholder URL if provided>`
+
+---
+
+## 20. Design References
+
+**Question**  
+What websites or visual references should guide the design direction, and what should be avoided?
+
+**Why this matters**  
+References help clarify taste, layout expectations, interaction style, and visual boundaries.
+
+**Examples**
+- Sites that feel premium
+- Sites that feel too cluttered
+- Sites with strong service pages
+- Sites with useful pricing layouts
+- Sites with navigation to avoid
+
+**Rough-answer fallback**  
+Use clean, credible, low-clutter references with strong readability.
+
+**Cleaned answer format**  
+`Design references: <liked references, disliked references, and reasons>`
+
+---
+
+## 21. Competitors or Alternatives
+
+**Question**  
+Who should the website be clearly different from?
+
+**Why this matters**  
+This helps position the brand without copying competitors or attacking them.
+
+**Examples**
+- Direct competitors
+- Substitute services
+- Larger category leaders
+- Low-cost alternatives
+- Internal DIY approaches
+
+**Rough-answer fallback**  
+Differentiate through clarity, trust, process, and practical outcomes.
+
+**Cleaned answer format**  
+`Competitors/alternatives: <competitor or alternative list plus differentiation notes>`
+
+---
+
+## 22. SEO and Search Intent
+
+**Question**  
+What should people be able to search for and find this website?
+
+**Why this matters**  
+Search intent affects page titles, headings, blog categories, service pages, and content structure.
+
+**Examples**
+- Service category keywords
+- Local search terms
+- Product terms
+- Problem-based searches
+- Industry-specific questions
+
+**Rough-answer fallback**  
+Use clear category, offer, audience, and problem-based language.
+
+**Cleaned answer format**  
+`SEO/search intent: <priority search terms or topics>`
+
+---
+
+## 23. Content Inventory
+
+**Question**  
+What existing copy, media, or documents can the website reuse?
+
+**Why this matters**  
+Existing material can speed up the build and reduce unnecessary rewriting.
+
+**Examples**
+- Pitch deck
+- Brochure
+- Sales page
+- Social posts
+- Blog posts
+- Product screenshots
+- FAQs
+
+**Rough-answer fallback**  
+No reusable content confirmed; write from the normalized brand profile.
+
+**Cleaned answer format**  
+`Content inventory: <reusable assets or none stated>`
+
+---
+
+## 24. Functional Requirements
+
+**Question**  
+What does the website need to do besides display information?
+
+**Why this matters**  
+Features affect platform choice, timeline, budget, integrations, QA, and maintenance.
+
+**Examples**
+- Contact forms
+- Booking calendar
+- Ecommerce checkout
+- User accounts
+- Course access
+- Resource downloads
+- Live chat
+- Search
+
+**Rough-answer fallback**  
+Use a contact form and one primary conversion flow.
+
+**Cleaned answer format**  
+`Functional requirements: <feature list>`
+
+---
+
+## 25. Forms and Lead Capture
+
+**Question**  
+What information should forms collect from visitors?
+
+**Why this matters**  
+Forms should collect enough information to qualify the lead without creating unnecessary friction.
+
+**Examples**
+- Name
+- Email
+- Company
+- Role
+- Budget range
+- Timeline
+- Project type
+- Message
+
+**Rough-answer fallback**  
+Name, email, company, and message.
+
+**Cleaned answer format**  
+`Forms/lead capture: <fields and routing notes>`
+
+---
+
+## 26. Integrations
+
+**Question**  
+What tools should the website connect to?
+
+**Why this matters**  
+Integrations can affect platform choice, form routing, analytics, automations, and launch QA.
+
+**Examples**
+- CRM
+- Newsletter tool
+- Booking tool
+- Payment processor
+- Analytics
+- Tag manager
+- Customer support tool
+- Marketing automation
+
+**Rough-answer fallback**  
+Email notification for forms, basic analytics, and optional newsletter signup.
+
+**Cleaned answer format**  
+`Integrations: <tool list or none stated>`
+
+---
+
+## 27. Platform or Tech Preference
+
+**Question**  
+Is there a preferred website platform, builder, CMS, or tech stack?
+
+**Why this matters**  
+Platform choice affects editing, hosting, design flexibility, integrations, cost, and long-term maintenance.
+
+**Examples**
+- Webflow
+- WordPress
+- Shopify
+- Squarespace
+- Wix
+- Custom code
+- No preference
+
+**Rough-answer fallback**  
+No preference; choose the simplest platform that fits the website goals and maintenance needs.
+
+**Cleaned answer format**  
+`Platform/tech preference: <preferred platform or no preference>`
+
+---
+
+## 28. Editing and Ownership
+
+**Question**  
+Who needs to edit the website after launch?
+
+**Why this matters**  
+The CMS and page structure should match the future operator's skill level.
+
+**Examples**
+- Founder edits pages
+- Marketing team edits blog posts
+- Developer handles changes
+- Agency maintains the site
+- No frequent edits expected
+
+**Rough-answer fallback**  
+A non-technical operator should be able to update basic text and publish posts.
+
+**Cleaned answer format**  
+`Editing/ownership: <who edits what after launch>`
+
+---
+
+## 29. Analytics and Conversion Tracking
+
+**Question**  
+What should be measured after launch?
+
+**Why this matters**  
+Measurement requirements affect analytics setup, event tracking, dashboards, and CTA design.
+
+**Examples**
+- Form submissions
+- Booked calls
+- Purchases
+- Newsletter signups
+- Resource downloads
+- Page views
+- CTA clicks
+
+**Rough-answer fallback**  
+Track visits, CTA clicks, form submissions, and conversions.
+
+**Cleaned answer format**  
+`Analytics/tracking: <measurement list>`
+
+---
+
+## 30. Legal, Privacy, and Compliance Needs
+
+**Question**  
+What legal, privacy, accessibility, or compliance requirements must the website follow?
+
+**Why this matters**  
+Compliance requirements can affect copy, forms, cookies, data collection, disclaimers, accessibility, and page requirements.
+
+**Examples**
+- Privacy policy
+- Terms of service
+- Cookie notice
+- Accessibility expectations
+- Industry disclaimers
+- Data handling limits
+- Age or region restrictions
+
+**Rough-answer fallback**  
+Use conservative copy, basic privacy/legal placeholders, accessible structure, and no unsupported claims.
+
+**Cleaned answer format**  
+`Legal/privacy/compliance: <requirements or none stated>`
+
+---
+
+## 31. Localization and Region
+
+**Question**  
+Does the website need to support specific regions, languages, currencies, or local market rules?
+
+**Why this matters**  
+Localization affects copy, URLs, pricing, compliance, imagery, contact details, and SEO.
+
+**Examples**
+- English only
+- Multiple languages
+- Region-specific pages
+- Local service areas
+- Currency display
+- Country-specific disclaimers
+
+**Rough-answer fallback**  
+English-first, global messaging unless a specific region is stated.
+
+**Cleaned answer format**  
+`Localization/region: <region and language needs>`
+
+---
+
+## 32. Launch Scope and Priority
+
+**Question**  
+What is required for launch, and what can wait until later?
+
+**Why this matters**  
+Separating must-have from nice-to-have keeps the first website version focused.
+
+**Examples**
+- Must-have homepage and contact form
+- Blog can wait
+- Case studies can wait
+- Ecommerce needed immediately
+- Member portal later
+
+**Rough-answer fallback**  
+Launch with the smallest credible site: Home, Offer, Proof, Contact, and one clear CTA.
+
+**Cleaned answer format**  
+`Launch scope: <must-have list and later list>`
+
+---
+
+## 33. Timeline and Budget Range
+
+**Question**  
+What timeline, budget range, or resource constraint should shape the website build?
+
+**Why this matters**  
+Scope, platform choice, page count, custom features, and content depth should match available resources.
+
+**Examples**
+- Lean launch quickly
+- Full custom site
+- Fixed launch date
+- Limited internal team
+- Budget range known
+- Budget not set yet
+
+**Rough-answer fallback**  
+Prioritize a lean, credible first version with room to expand later.
+
+**Cleaned answer format**  
+`Timeline/budget/resources: <constraint summary>`
+
+---
+
+## 34. Maintenance Plan
+
+**Question**  
+How often will the website need updates after launch?
+
+**Why this matters**  
+Maintenance expectations affect CMS setup, training, documentation, and platform choice.
+
+**Examples**
+- Rare updates
+- Monthly content updates
+- Weekly blog posts
+- Frequent product updates
+- Seasonal campaigns
+- Ongoing optimization
+
+**Rough-answer fallback**  
+Assume occasional updates by a non-technical operator.
+
+**Cleaned answer format**  
+`Maintenance plan: <update frequency and owner>`
+
+---
+
+# Part 3 - Conditional Website Follow-Up Questions
+
+Ask these only if relevant.
+
+## Ecommerce
+
+**Question**  
+Will the website sell products, services, subscriptions, or digital downloads directly?
+
+**Cleaned answer format**  
+`Ecommerce needs: <products, checkout, payments, taxes, shipping, subscriptions, or none>`
+
+## Booking
+
+**Question**  
+Will visitors need to book appointments, consultations, demos, classes, or events?
+
+**Cleaned answer format**  
+`Booking needs: <booking flow and calendar requirements>`
+
+## Member Accounts or Portals
+
+**Question**  
+Will users need accounts, gated content, dashboards, portals, or login-only access?
+
+**Cleaned answer format**  
+`Account/portal needs: <login, roles, permissions, gated content, or none>`
+
+## Blog, Resources, or CMS
+
+**Question**  
+Will the brand publish blog posts, resources, case studies, updates, or landing pages regularly?
+
+**Cleaned answer format**  
+`Publishing/CMS needs: <content types and publishing cadence>`
+
+## Migration
+
+**Question**  
+Does existing content, URLs, SEO value, forms, or data need to be migrated from another website?
+
+**Cleaned answer format**  
+`Migration needs: <content, URLs, redirects, data, SEO, or none>`
+
+## Security
+
+**Question**  
+Are there specific security, hosting, backup, uptime, or access-control requirements?
+
+**Cleaned answer format**  
+`Security/hosting needs: <requirements or none stated>`
+
+---
+
+# Part 4 - Bulk Intake Form
+
+Use this only if the user explicitly requests a bulk form.
+
+## Core Brand Intake
+
+```text
+Brand name:
+Audience:
+Offer:
+Tone:
+Visual style:
+Goals:
+Content themes:
+Platforms:
+Constraints:
+```
+
+## Website Intake
+
+```text
+Website purpose:
+Primary website CTA:
+Secondary website CTAs:
+Required pages:
+Offer/service structure:
+Visitor segments:
+Visitor objections:
+Proof assets:
+Brand assets:
+Existing website/domain:
+Design references:
+Competitors/alternatives:
+SEO/search intent:
+Content inventory:
+Functional requirements:
+Forms/lead capture:
+Integrations:
+Platform/tech preference:
+Editing/ownership:
+Analytics/tracking:
+Legal/privacy/compliance:
+Localization/region:
+Launch scope:
+Timeline/budget/resources:
+Maintenance plan:
+Conditional ecommerce needs:
+Conditional booking needs:
+Conditional account/portal needs:
+Conditional publishing/CMS needs:
+Conditional migration needs:
+Conditional security/hosting needs:
+```
+
+---
+
+# Part 5 - Website Intake Done Criteria
+
+Website intake is complete when the operator can state:
+
+- Who the website is for
+- What the website must achieve
+- What the primary CTA is
+- Which pages are required at launch
+- What offers or products must be explained
+- What proof and trust assets are available
+- What design assets or style rules exist
+- What functionality and integrations are needed
+- What legal, accessibility, privacy, or compliance limits apply
+- What platform, editing, analytics, launch, and maintenance constraints exist
+
+Do not create the sitemap, homepage copy, wireframes, or website build brief until the needed website intake fields are collected.
