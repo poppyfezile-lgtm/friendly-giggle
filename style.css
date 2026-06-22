@@ -1,0 +1,541 @@
+/* =========================================
+   Global Styles & Typography
+   ========================================= */
+
+:root {
+    --color-dark-brown: #3d2817;
+    --color-brown: #6b4423;
+    --color-light-grey: #f5f5f5;
+    --color-grey: #e8e8e8;
+    --color-dark-grey: #7a7a7a;
+    --color-red: #c1443f;
+    --color-white: #ffffff;
+
+    --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    --line-height: 1.6;
+    --letter-spacing: 0.3px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-family);
+    font-size: 16px;
+    line-height: var(--line-height);
+    color: var(--color-dark-brown);
+    background-color: var(--color-white);
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* =========================================
+   Typography
+   ========================================= */
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    letter-spacing: var(--letter-spacing);
+    margin-bottom: 1rem;
+    color: var(--color-dark-brown);
+}
+
+h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    font-size: 1.375rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+p {
+    margin-bottom: 1rem;
+    color: var(--color-dark-brown);
+}
+
+a {
+    color: var(--color-red);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--color-brown);
+}
+
+/* =========================================
+   Navigation & Header
+   ========================================= */
+
+header {
+    border-bottom: 2px solid var(--color-grey);
+    background-color: var(--color-white);
+}
+
+.navbar {
+    padding: 1.5rem 0;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-dark-brown);
+    letter-spacing: 0.5px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-links a {
+    font-weight: 500;
+    color: var(--color-dark-brown);
+    font-size: 0.95rem;
+}
+
+.nav-links a:hover {
+    color: var(--color-red);
+}
+
+/* =========================================
+   Hero Section
+   ========================================= */
+
+.hero {
+    padding: 4rem 0;
+    background: linear-gradient(135deg, var(--color-light-grey) 0%, var(--color-white) 100%);
+    border-bottom: 1px solid var(--color-grey);
+}
+
+.hero .container {
+    text-align: center;
+}
+
+.hero h1 {
+    color: var(--color-dark-brown);
+    margin-bottom: 1rem;
+}
+
+.subtitle {
+    font-size: 1.25rem;
+    color: var(--color-dark-grey);
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+/* =========================================
+   Buttons & CTAs
+   ========================================= */
+
+.cta-button {
+    display: inline-block;
+    padding: 0.875rem 2rem;
+    background-color: var(--color-red);
+    color: var(--color-white);
+    font-weight: 600;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    text-align: center;
+    font-size: 0.95rem;
+}
+
+.cta-button:hover {
+    background-color: var(--color-brown);
+    color: var(--color-white);
+}
+
+.submit-button {
+    padding: 0.875rem 2rem;
+    background-color: var(--color-red);
+    color: var(--color-white);
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.95rem;
+}
+
+.submit-button:hover {
+    background-color: var(--color-brown);
+}
+
+/* =========================================
+   Content Sections
+   ========================================= */
+
+.value-prop {
+    padding: 4rem 0;
+    background-color: var(--color-light-grey);
+    border-bottom: 1px solid var(--color-grey);
+}
+
+.value-prop h2 {
+    color: var(--color-dark-brown);
+    margin-top: 0;
+}
+
+.value-prop p {
+    font-size: 1.1rem;
+    color: var(--color-dark-brown);
+    line-height: 1.7;
+}
+
+.themes {
+    padding: 4rem 0;
+}
+
+.themes h2 {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.themes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.theme-card {
+    padding: 2rem;
+    background-color: var(--color-light-grey);
+    border-left: 4px solid var(--color-red);
+    border-radius: 4px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.theme-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.theme-card h3 {
+    margin-top: 0;
+    color: var(--color-red);
+}
+
+/* =========================================
+   CTA Section
+   ========================================= */
+
+.cta-section {
+    padding: 4rem 0;
+    background-color: var(--color-dark-brown);
+    color: var(--color-white);
+    text-align: center;
+}
+
+.cta-section h2 {
+    color: var(--color-white);
+}
+
+.cta-section p {
+    color: var(--color-light-grey);
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+/* =========================================
+   Page Headers
+   ========================================= */
+
+.page-header {
+    padding: 3rem 0;
+    background: linear-gradient(135deg, var(--color-light-grey) 0%, var(--color-white) 100%);
+    border-bottom: 1px solid var(--color-grey);
+}
+
+.page-header h1 {
+    margin-bottom: 0.5rem;
+    color: var(--color-dark-brown);
+}
+
+.page-header .subtitle {
+    margin-bottom: 0;
+}
+
+/* =========================================
+   Content Pages
+   ========================================= */
+
+.about-content,
+.offer-content,
+.proof-content,
+.contact-content {
+    padding: 3rem 0;
+}
+
+.philosophy-list,
+.offer-list,
+.proof-list,
+.contact-links {
+    list-style: none;
+    margin: 1.5rem 0 2rem;
+}
+
+.philosophy-list li,
+.offer-list li,
+.proof-list li,
+.contact-links li {
+    padding: 0.75rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+    color: var(--color-dark-brown);
+}
+
+.philosophy-list li:before,
+.offer-list li:before,
+.proof-list li:before,
+.contact-links li:before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: var(--color-red);
+    font-weight: bold;
+}
+
+.service-card {
+    padding: 2rem;
+    background-color: var(--color-light-grey);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    border-left: 4px solid var(--color-red);
+}
+
+.service-card h3 {
+    margin-top: 0;
+    color: var(--color-red);
+}
+
+/* =========================================
+   Expertise Grid
+   ========================================= */
+
+.expertise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.expertise-card {
+    padding: 1.5rem;
+    background-color: var(--color-light-grey);
+    border-radius: 4px;
+    border-top: 3px solid var(--color-red);
+}
+
+.expertise-card h3 {
+    margin-top: 0;
+    color: var(--color-red);
+    font-size: 1.1rem;
+}
+
+/* =========================================
+   Contact Form
+   ========================================= */
+
+.contact-form-wrapper {
+    max-width: 600px;
+    margin-bottom: 3rem;
+}
+
+.contact-form {
+    background-color: var(--color-light-grey);
+    padding: 2rem;
+    border-radius: 4px;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: var(--color-dark-brown);
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.75rem;
+    font-family: var(--font-family);
+    font-size: 1rem;
+    border: 1px solid var(--color-grey);
+    border-radius: 4px;
+    background-color: var(--color-white);
+    color: var(--color-dark-brown);
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--color-red);
+    box-shadow: 0 0 0 3px rgba(193, 68, 63, 0.1);
+}
+
+.contact-info h2 {
+    margin-top: 0;
+}
+
+/* =========================================
+   Footer
+   ========================================= */
+
+footer {
+    border-top: 2px solid var(--color-grey);
+    background-color: var(--color-light-grey);
+    padding: 2rem 0;
+    margin-top: 4rem;
+    text-align: center;
+}
+
+footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+footer p {
+    margin-bottom: 0;
+    color: var(--color-dark-grey);
+    font-size: 0.95rem;
+}
+
+footer a {
+    color: var(--color-red);
+    font-weight: 500;
+}
+
+footer a:hover {
+    color: var(--color-brown);
+}
+
+/* =========================================
+   Responsive Design
+   ========================================= */
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.875rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.15rem;
+    }
+
+    .navbar .container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .nav-links {
+        gap: 1rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .hero {
+        padding: 2.5rem 0;
+    }
+
+    .value-prop,
+    .themes,
+    .cta-section {
+        padding: 2.5rem 0;
+    }
+
+    .themes-grid,
+    .expertise-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .subtitle {
+        font-size: 1.1rem;
+    }
+
+    footer .container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .about-content,
+    .offer-content,
+    .proof-content,
+    .contact-content {
+        padding: 2rem 0;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    h2 {
+        font-size: 1.25rem;
+    }
+
+    .nav-links {
+        gap: 0.75rem;
+    }
+
+    .nav-links a {
+        font-size: 0.85rem;
+    }
+
+    .cta-button,
+    .submit-button {
+        display: block;
+        width: 100%;
+    }
+
+    .hero {
+        padding: 1.5rem 0;
+    }
+
+    .hero h1 {
+        margin-bottom: 0.75rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+}
